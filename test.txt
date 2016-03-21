@@ -1,0 +1,5 @@
+id; Name; Price; Number;
+1; Nike; 4500; 15;
+2; Adidas; 2300; 9;
+8; Puma; 5100; 8;
+10; Bona; 300; 13;
